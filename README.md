@@ -11,4 +11,4 @@ Scenario: One request to root page and 1-n requests for each detail page.
 
 ```items.py``` is a file that is auto-generated when using the ```scrapy startproject {yourprojectname}``` command. Copy the example code into that file.
 
-Checkout the Scrapy Tutorial for more information regarding default directory structure: https://docs.scrapy.org/en/latest/intro/tutorial.html
+Check out the Scrapy Tutorial for more information regarding default directory structure: https://docs.scrapy.org/en/latest/intro/tutorial.html
